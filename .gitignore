@@ -1,3 +1,9 @@
+#Ignored Files
+*.csv
+Sizes_Max_Scenario_0.csv
+Data/Sizes_Max_Scenario_0.csv
+Data/* 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
