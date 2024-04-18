@@ -1,2 +1,8 @@
 # Workshop_Git_UU
-REpository created for Workshop at UU - 18th April 2024
+Repository created for Workshop at UU
+
+## Date and Time
+
+Creation date: 18.04.2024
+
+Author: Matilde Plácido
